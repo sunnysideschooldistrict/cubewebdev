@@ -110,7 +110,11 @@ body {
 }
 .me {
     display: block;
+    border: black solid;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
 }
-.me pre {
+.me p {
     text-align: center;
 }
