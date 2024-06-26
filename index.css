@@ -106,6 +106,7 @@ body {
 }
 .me h1 {
     text-transform: uppercase;
+    text-align: center;
 }
 .me {
     display: block;
