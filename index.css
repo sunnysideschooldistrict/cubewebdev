@@ -18,3 +18,27 @@ body {
     height: 100%;
     margin: 0;
 }
+.projects {
+    height: fit-content;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.galaxite {
+    border: solid white;
+    border-radius: 20px;
+    display: block;
+    background-color: black;
+}
+.galaxite h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.galaxite p {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
