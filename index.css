@@ -33,6 +33,8 @@ body {
     background-color: black;
     height: 100%;
     padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .galaxite h3 {
     text-align: center;
