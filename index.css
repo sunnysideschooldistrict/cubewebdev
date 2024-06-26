@@ -17,6 +17,7 @@ body {
     width: 100%;
     height: 100%;
     margin: 0;
+    border-bottom: solid black;
 }
 .projects {
     height: 500px;
@@ -35,6 +36,8 @@ body {
     padding: 20px;
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .galaxite h3 {
     text-align: center;
