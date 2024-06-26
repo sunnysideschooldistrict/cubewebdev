@@ -31,6 +31,7 @@ body {
     border-radius: 20px;
     display: block;
     background-color: black;
+    height: 100%;
 }
 .galaxite h3 {
     text-align: center;
