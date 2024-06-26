@@ -101,9 +101,12 @@ body {
     justify-content: center;
     align-items: center;
 }
-.aboutme img {
+.me img {
     height: 100px;
 }
-.aboutme h1 {
+.me h1 {
     text-transform: uppercase;
+}
+.me {
+    display: block;
 }
