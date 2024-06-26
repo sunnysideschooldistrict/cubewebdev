@@ -19,7 +19,7 @@ body {
     margin: 0;
 }
 .projects {
-    height: fit-content;
+    height: 100%;
     width: 100%;
     margin: 0;
     display: flex;
