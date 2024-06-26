@@ -26,6 +26,8 @@ body {
     justify-content: center;
     align-items: center;
     border-bottom: solid black;
+    padding-top: 50px;
+    padding-bottom: ;
 }
 .galaxite {
     border: solid white;
