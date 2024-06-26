@@ -60,3 +60,35 @@ body {
     text-transform: uppercase;
     color: white;
 }
+.dvcubin {
+    border: solid white;
+    border-radius: 20px;
+    display: block;
+    background-color: black;
+    height: 100%;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dvcubin h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.dvcubin p {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.dvcubin img {
+    height: 300px;
+    width: 300px;
+    margin-top: 100px;
+}
+.dvcubin a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
