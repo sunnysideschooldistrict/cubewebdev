@@ -93,28 +93,30 @@ body {
     text-transform: uppercase;
     color: white;
 }
-.aboutme {
-    margin: 0;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.me img {
-    height: 100px;
-}
-.me h1 {
-    text-transform: uppercase;
-    text-align: center;
-}
 .me {
-    display: block;
-    border: black solid;
-    background-color: grey;
+    border: solid white;
     border-radius: 20px;
+    display: block;
+    background-color: black;
+    height: 100%;
     padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.me h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
 }
 .me p {
     text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.me img {
+    height: 300px;
+    width: 300px;
+    margin-top: 100px;
 }
