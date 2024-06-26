@@ -111,3 +111,6 @@ body {
 .me {
     display: block;
 }
+.me pre {
+    text-align: center;
+}
