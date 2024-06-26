@@ -101,3 +101,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+.aboutme img {
+    height: 100px;
+}
+.aboutme h1 {
+    text-transform: uppercase;
+}
