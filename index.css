@@ -132,3 +132,26 @@ body {
     height: 75px;
     width: 75px;
 }
+@media (max-width: 800px) {
+    html {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    .banner {
+        width: 100%;
+        height: 20%;
+        margin: 0;
+    }
+    .banner img {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        border-bottom: solid black;
+    }
+}
