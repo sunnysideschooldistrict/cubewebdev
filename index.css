@@ -154,4 +154,113 @@ body {
         margin: 0;
         border-bottom: solid black;
     }
+    .projects {
+        height: 500px;
+        width: 100%;
+        display: block;
+        border-bottom: solid black;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .galaxite {
+        border: solid white;
+        border-radius: 20px;
+        display: block;
+        background-color: black;
+        height: 100%;
+        padding: 20px;
+        margin-left: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .galaxite h3 {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .galaxite p {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .galaxite img {
+        height: 300px;
+        width: 300px;
+        margin-top: 70px;
+    }
+    .galaxite a {
+        text-decoration: none;
+        text-transform: uppercase;
+        color: white;
+    }
+    .dvcubin {
+        border: solid white;
+        border-radius: 20px;
+        display: block;
+        background-color: black;
+        height: 100%;
+        padding: 20px;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .dvcubin h3 {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .dvcubin p {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .dvcubin img {
+        height: 300px;
+        width: 300px;
+        margin-top: 70px;
+    }
+    .dvcubin a {
+        text-decoration: none;
+        text-transform: uppercase;
+        color: white;
+    }
+    .me {
+        border: solid white;
+        border-radius: 20px;
+        display: block;
+        background-color: black;
+        height: 100%;
+        padding: 20px;
+        margin-left: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .me h3 {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .me p {
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+    }
+    .me img {
+        height: 300px;
+        width: 300px;
+        margin-top: 70px;
+    }
+    .contact {
+        width: 100%;
+        display: block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .contact a img {
+        margin-left: 100px;
+        border-radius: 100px;
+        height: 75px;
+        width: 75px;
+    }
 }
