@@ -132,7 +132,7 @@ body {
     height: 75px;
     width: 75px;
 }
-@media (max-width: 800px) {
+@media (max-width: 750px) {
     html {
         width: 100%;
         height: 100%;
